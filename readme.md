@@ -1,0 +1,1 @@
+This project is an anti-phishing system designed to detect potentially malicious URLs in real-time. It uses basic keyword checks, machine learning (future phase), and geolocation to analyze suspicious links and warn users. The system will also provide options to send alerts and report to cybercrime authorities.
