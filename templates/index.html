@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Anti-Phishing System</title>
+</head>
+<body>
+    <h2>🔐 Smart URL Phishing Scanner</h2>
+  <form method="post">
+    <input type="text" name="url" placeholder="Enter a URL.." required>
+    <button type="submit">Scan</button>
+  </form>
+  {% if result %}
+  <h3>result: {{ result }}</h3>
+  {% endif %}
+</body>
+</html>
