@@ -1,2 +1,16 @@
 2025-07-07 21:58:04,<function check_url at 0x0000028FE0C18CC0>,⚠️ Suspicious,127.0.0.1,
 2025-07-07 21:58:20,<function check_url at 0x0000028FE0C18CC0>,⚠️ Suspicious,127.0.0.1,
+2025-07-10 22:02:55,<function check_url at 0x00000192EC706B60>,❌ Invalid URL format,could not resolve ip ,
+2025-07-10 22:03:22,<function check_url at 0x00000192EC706B60>,✅ Safe,157.240.237.35,
+2025-07-10 22:03:36,<function check_url at 0x00000192EC706B60>,✅ Safe,157.240.237.35,
+2025-07-10 22:03:40,<function check_url at 0x00000192EC706B60>,✅ Safe,157.240.237.35,
+2025-07-10 22:04:02,<function check_url at 0x00000192EC706B60>,❌ Invalid URL format,0.0.0.0,
+2025-07-10 22:05:15,<function check_url at 0x00000192EC706B60>,❌ Invalid URL format,0.0.0.0,
+2025-07-10 22:05:52,<function check_url at 0x00000192EC706B60>,❌ Invalid URL format,could not resolve ip ,
+2025-07-10 22:06:00,<function check_url at 0x00000192EC706B60>,✅ Safe,57.144.124.1,
+2025-07-10 22:08:51,<function check_url at 0x00000192EC706B60>,✅ Safe,142.251.43.100,
+2025-07-10 22:10:32,<function check_url at 0x000001DCD0286B60>,✅ Safe,57.144.146.1,
+2025-07-10 22:20:02,<function check_url at 0x000001AB8C40AB60>,✅ Safe,157.240.237.35,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0"
+2025-07-10 22:25:15,<function check_url at 0x0000023321D9AC00>,✅ Safe,57.144.146.1,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0"
+2025-07-10 22:30:11,<function check_url at 0x000002481B176B60>,Safe,57.144.146.1,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0"
+2025-07-10 22:30:25,<function check_url at 0x000002481B176B60>,Suspicious,67.199.248.11,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0"

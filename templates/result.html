@@ -31,6 +31,14 @@
                 <span class="text-danger">⚠️ This link might be a phishing site!</span>
             {% endif %}
         </p>
+        <p>
+  <strong>Hosting IP Address:</strong><br>
+  {% if target_ip.lower().strip() != "could not resolve ip" %}
+      {{ target_ip }}
+  {% else %}
+      Not Found or Domain Unreachable
+  {% endif %}
+</p>
         <a href="/" class="btn btn-primary mt-3">Scan Another Link</a>
     </div>
 </div>
